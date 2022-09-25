@@ -1,2 +1,0 @@
-This is the content of first_file created.
-The second line is an edit.
